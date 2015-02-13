@@ -1,0 +1,36 @@
+/*!
+Michael 'Koncept' Jones
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+}
+
+.navbar-fixed-top .nav {
+    padding: 20px 0;
+}
+
+.navbar-fixed-top .navbar-brand {
+    padding: 0 15px;
+    color: #ad1414;
+}
+ 
+
+footer {
+    padding: 2em 0;
+    margin: 3em 0;
+    border-top: 1px solid #ddd;
+    color: #999;
+    text-align: center;
+}
+
+@media(min-width:768px) {
+    body {
+        padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    }
+
+    .navbar-fixed-top .navbar-brand {
+        padding: 15px 0;
+         color: #ad1414;
+    }
+}
