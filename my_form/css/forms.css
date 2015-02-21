@@ -22,11 +22,12 @@ html, body{
 	color:#666;  
 }
 
-/* backgrounds | add here */
-.bg-linen{ background:#C7CBCE url(../images/linen.jpg) repeat fixed; }
-.bg-wooden{ background:#C07D50 url(../images/wooden.jpg) repeat fixed; }
+/* backgrounds */
+.bg-grunge2{ background:#C7CBCE url(../images/grunge2.png) repeat fixed; }
+.bg-dark{ background:#C07D50 url(../images/dark.png) repeat fixed; }
+.bg-grunge{ background:#C07D50 url(../images/grunge.png) repeat fixed; }
 
-/* start general styles */
+/* general styles */
 .forms{ padding:40px 20px; }
 .myforms{ font-size:83%; font-family:Helvetica, Arial, sans-serif; }
 .myforms *{
@@ -341,7 +342,7 @@ html, body{
 	padding-right: 0; position:relative;
 }
 
-/* begin form element styling */
+/* form element styling */
 .myforms .input, 
 .myforms .valid,
 .myforms .rating,
