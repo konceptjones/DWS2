@@ -25,7 +25,7 @@ html, body{
 /* backgrounds */
 .bg-grunge2{ background:#C7CBCE url(../images/grunge2.png) repeat fixed; }
 .bg-dark{ background:#C07D50 url(../images/dark.png) repeat fixed; }
-.bg-grunge{ background:#C07D50 url(../images/grunge.png) repeat fixed; }
+.bg-grunge{ background:#C07D50 url(../img/grunge.png) repeat fixed; }
 
 /* general styles */
 .forms{ padding:40px 20px; }
